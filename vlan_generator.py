@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-VLAN Configuration Generator
+VLAN Configuration Generator branch_b
 Reads devices from inventory file and generates VLAN configurations
 Test line
 """
